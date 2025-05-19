@@ -1,0 +1,4 @@
+funcion sumaMalFormada a, b 
+    variable resultado = a + b
+    devolver resultado;
+}

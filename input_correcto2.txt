@@ -1,0 +1,8 @@
+funcion sumarEnteros(x, y) {
+    resultado = x + y;
+    imprimir{resultado};
+    devolver resultado;
+}
+
+ejecutar sumarEnteros(10, 20);
+

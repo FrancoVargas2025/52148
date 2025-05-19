@@ -1,0 +1,3 @@
+variable x = 5;
+variable y = "texto";
+variable z = x + mayusculas{y};
