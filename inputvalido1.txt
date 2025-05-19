@@ -1,0 +1,8 @@
+funcion sumarDecimales(a, b) {
+    a = a + b;
+    imprimir{a};
+    devolver a;
+}
+
+ejecutar sumarDecimales(3.14, 2.71);
+
